@@ -1,0 +1,46 @@
+[
+  {
+    "title": "NakeyJakey's New Vegas",
+    "description": "My curated way to improve this incredible game.",
+    "author": "NakeyJakey",
+    "maintainers": [
+      "github/ballcreative"
+    ],
+    "game": "falloutnewvegas",
+    "official": false,
+    "tags": [
+      "SFW",
+      "Steam",
+      "GOG",
+      "Vanilla\u002B",
+      "DLC Required"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/ballcreative/NakeyJakeys-NewVegas/main/wabbathumbnail.webp",
+      "readme": "https://docs.google.com/document/d/e/2PACX-1vRPOto1fcZ34NDDLp92YX3gbp8Fh-GygB2xUpWnMcpT9828E5LFPJhzxLPhQRKNH8soQbYevqfQxqau/pub",
+      "download": "https://authored-files.wabbajack.org/NakeyJakey's New Vegas.wabbajack_16042571-86dd-41cf-8d25-d0dcac41645b",
+      "machineURL": "NakeyJakeysNewVegas",
+      "discordURL": "",
+      "websiteURL": "https://docs.google.com/document/d/e/2PACX-1vRPOto1fcZ34NDDLp92YX3gbp8Fh-GygB2xUpWnMcpT9828E5LFPJhzxLPhQRKNH8soQbYevqfQxqau/pub",
+      "nexusCollection": null
+    },
+    "download_metadata": {
+      "Hash": "ql+pfFYto9k=",
+      "Size": 25363271,
+      "NumberOfArchives": 335,
+      "SizeOfArchives": 27836403381,
+      "NumberOfInstalledFiles": 67562,
+      "SizeOfInstalledFiles": 48791968080,
+      "TotalSize": 76628371461
+    },
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-09-14T23:45:57.0646252Z",
+    "repositoryName": ""
+  }
+]
