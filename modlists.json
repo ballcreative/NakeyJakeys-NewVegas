@@ -4,7 +4,8 @@
     "description": "My curated way to improve this incredible game.",
     "author": "NakeyJakey",
     "maintainers": [
-      "github/ballcreative"
+      "github/ballcreative",
+      "github/stentorious"
     ],
     "game": "falloutnewvegas",
     "official": false,
@@ -12,7 +13,7 @@
       "SFW",
       "Steam",
       "GOG",
-      "Vanilla\u002B",
+      "Vanilla",
       "DLC Required"
     ],
     "nsfw": false,
