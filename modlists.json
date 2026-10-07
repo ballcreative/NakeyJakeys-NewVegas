@@ -1,6 +1,6 @@
 [
   {
-    "title": "NakeyJakey's New Vegas",
+    "title": "NakeyJakey\u0027s New Vegas",
     "description": "My curated way to improve this incredible game.",
     "author": "NakeyJakey",
     "maintainers": [
@@ -24,24 +24,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ballcreative/NakeyJakeys-NewVegas/main/wabbathumbnail.webp",
       "readme": "https://docs.google.com/document/d/e/2PACX-1vRPOto1fcZ34NDDLp92YX3gbp8Fh-GygB2xUpWnMcpT9828E5LFPJhzxLPhQRKNH8soQbYevqfQxqau/pub",
-      "download": "https://authored-files.wabbajack.org/NakeyJakey's New Vegas.wabbajack_16042571-86dd-41cf-8d25-d0dcac41645b",
+      "download": "https://authored-files.wabbajack.org/NakeyJakey\u0027s New Vegas.wabbajack_cbb3bf93-674b-4d66-a2d6-2714333e3330",
       "machineURL": "NakeyJakeysNewVegas",
       "discordURL": "",
       "websiteURL": "https://docs.google.com/document/d/e/2PACX-1vRPOto1fcZ34NDDLp92YX3gbp8Fh-GygB2xUpWnMcpT9828E5LFPJhzxLPhQRKNH8soQbYevqfQxqau/pub",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "ql+pfFYto9k=",
-      "Size": 25363271,
+      "Hash": "hVJSriUAo/s=",
+      "Size": 25370275,
       "NumberOfArchives": 335,
-      "SizeOfArchives": 27836403381,
-      "NumberOfInstalledFiles": 67562,
-      "SizeOfInstalledFiles": 48791968080,
-      "TotalSize": 76628371461
+      "SizeOfArchives": 27830248450,
+      "NumberOfInstalledFiles": 67550,
+      "SizeOfInstalledFiles": 48764459910,
+      "TotalSize": 76594708360
     },
-    "version": "1.0.0",
+    "version": "2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-14T23:45:57.0646252Z",
+    "dateUpdated": "2026-10-07T05:36:05.7291666Z",
     "repositoryName": ""
   }
 ]
