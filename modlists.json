@@ -28,7 +28,12 @@
       "machineURL": "NakeyJakeysNewVegas",
       "discordURL": "",
       "websiteURL": "https://docs.google.com/document/d/e/2PACX-1vRPOto1fcZ34NDDLp92YX3gbp8Fh-GygB2xUpWnMcpT9828E5LFPJhzxLPhQRKNH8soQbYevqfQxqau/pub",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "520785",
+        "slug": "1jsbrr",
+        "domainName": "newvegas",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "hVJSriUAo/s=",
